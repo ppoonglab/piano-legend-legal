@@ -12,5 +12,33 @@
       "ko": "안녕, 나야 형.\n네가 우리 밴드에 합류해서 정말 기뻐.\n\n스테이지 20까지, 그리고 주크박스 15곡 —\n갈 길이 멀지만 서두를 건 없어.\n재즈는 원래 천천히 스윙하는 거니까.\n\n새로운 소식이 생기면 여기로 편지를 보낼게.\n오늘도 좋은 연주!",
       "ja": "やあ、バンド仲間の俺だよ。\n君がうちのバンドに入ってくれて本当にうれしい。\n\nステージ20まで、それにジュークボックス15曲 —\n先は長いけど、急ぐことはないさ。\nジャズってのは、ゆっくりスウィングするものだからね。\n\n新しい知らせがあったら、ここに手紙を送るよ。\n今日もいい演奏を！"
     }
+  },
+  {
+    "id": "welcome-2",
+    "date": "2026-07-21",
+    "title": {
+      "en": "You came back!",
+      "ko": "오늘도 왔구나!",
+      "ja": "今日も来たんだね！"
+    },
+    "body": {
+      "en": "I saw you at the piano yesterday.\nThe way you keep practicing — honestly, it's amazing.\n\nEvery great player I know started exactly like this:\none small session at a time.\n\nThe seat by the stage is yours anytime.\nLet's play!",
+      "ko": "어제 피아노 앞에 앉은 너를 봤어.\n그렇게 꾸준히 연습하는 모습, 정말 대단해.\n\n내가 아는 대단한 연주자들도 전부\n이렇게 하루하루의 작은 연습에서 시작했거든.\n\n무대 옆자리는 언제나 네 거야.\n오늘도 같이 연주하자!",
+      "ja": "昨日、ピアノに向かう君を見たよ。\nあんなに頑張って練習する姿、本当にすごいと思う。\n\n俺の知ってる名プレイヤーたちも、みんな\nこういう毎日の小さな練習から始まったんだ。\n\nステージ横の席はいつでも君のものさ。\n今日も一緒に演奏しよう！"
+    }
+  },
+  {
+    "id": "welcome-3",
+    "date": "2026-07-22",
+    "title": {
+      "en": "You've gotten so much better",
+      "ko": "실력이 많이 늘었는걸?",
+      "ja": "腕を上げたじゃないか"
+    },
+    "body": {
+      "en": "I heard you play on my way in today.\nSeriously — you've improved a lot.\nYour fingers are starting to swing on their own.\n\nThe regulars are whispering about\n\"that new pianist\" already.\n\nKeep this up, and one day this whole town\nwill know your name. I mean it.",
+      "ko": "오늘 들어오는 길에 네 연주를 들었어.\n진짜야 — 실력이 많이 늘었더라.\n손가락이 스스로 스윙하기 시작했어.\n\n단골 손님들이 벌써\n\"그 신입 피아니스트\" 얘기를 수군거려.\n\n이대로만 가면 언젠가 이 동네 전체가\n네 이름을 알게 될 거야. 진심이야.",
+      "ja": "今日、店に入る途中で君の演奏を聴いたよ。\n本当だよ — ずいぶん上達したね。\n指が自分からスウィングし始めてる。\n\n常連さんたちはもう\n「あの新人ピアニスト」の噂をしてるよ。\n\nこの調子なら、いつかこの街じゅうが\n君の名前を知ることになるさ。本気で言ってるんだ。"
+    }
   }
 ]
