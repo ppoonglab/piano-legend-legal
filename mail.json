@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome-1",
+    "date": "2026-07-20",
+    "title": {
+      "en": "Welcome to the jazz bar!",
+      "ko": "재즈바에 온 걸 환영해!",
+      "ja": "ジャズバーへようこそ！"
+    },
+    "body": {
+      "en": "Hey, it's me — your bandmate.\nI'm really glad you joined our band.\n\nTwenty stages and fifteen jukebox songs —\nit's a long road, but there's no rush.\nJazz is all about taking it slow and letting it swing.\n\nI'll drop you a letter here whenever there's news.\nHave a great session today!",
+      "ko": "안녕, 나야 형.\n네가 우리 밴드에 합류해서 정말 기뻐.\n\n스테이지 20까지, 그리고 주크박스 15곡 —\n갈 길이 멀지만 서두를 건 없어.\n재즈는 원래 천천히 스윙하는 거니까.\n\n새로운 소식이 생기면 여기로 편지를 보낼게.\n오늘도 좋은 연주!",
+      "ja": "やあ、バンド仲間の俺だよ。\n君がうちのバンドに入ってくれて本当にうれしい。\n\nステージ20まで、それにジュークボックス15曲 —\n先は長いけど、急ぐことはないさ。\nジャズってのは、ゆっくりスウィングするものだからね。\n\n新しい知らせがあったら、ここに手紙を送るよ。\n今日もいい演奏を！"
+    }
+  }
+]
